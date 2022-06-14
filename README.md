@@ -3,6 +3,7 @@
 Team ID: WD 28
 Team Name: ETERNELS
 Team Size:5
+
 Project name:  Shopping  Site
 Description:
 -It is a website where we can get all the information about shopping items where we can buy the product
